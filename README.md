@@ -1,3 +1,3 @@
 # PTCT1
 JAJAL
-yobo ndimek
+nyobo ndimek
